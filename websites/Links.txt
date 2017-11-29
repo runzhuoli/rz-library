@@ -10,5 +10,8 @@ Microservices:
 
 Microservices with Spring: https://spring.io/blog/2015/07/14/microservices-with-spring
                            https://www.dineshonjava.com/microservices-with-spring-boot/       
+                           
+Java:
 
+Jpa: https://www.javaworld.com/article/2077819/java-se/understanding-jpa-part-2-relationships-the-jpa-way.html
 
